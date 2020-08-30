@@ -1,2 +1,2 @@
 # Thesis-Scanning
-A webpage for research findings
+This includes the scanning codes for master thesis.
