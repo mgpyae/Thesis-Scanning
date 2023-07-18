@@ -26,7 +26,7 @@ def next_available_row(worksheet):
 # GSpread
 scope = ["https://spreadsheets.google.com/feeds", 'https://www.googleapis.com/auth/spreadsheets',
          "https://www.googleapis.com/auth/drive.file", "https://www.googleapis.com/auth/drive"]
-creds = ServiceAccountCredentials.from_json_keyfile_name("Vive_to_Google-7fb9e315949a.json", scope)
+creds = ServiceAccountCredentials.from_json_keyfile_name("your_json_file_name.json", scope)
 
 try:
     client = gspread.authorize(creds)
