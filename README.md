@@ -10,6 +10,9 @@ Simplified process diagram.
 The whole feedback loop system is as follow.
 ![System Diagram for thesis](https://github.com/mgpyae/Thesis-Scanning/assets/16523434/ead877ac-01e0-4a9f-94ed-87cb7bd8ec09)
 
+The hand-held controller is redesigned to allow workers to be able to scan points easily.
+![Controller redesign](https://github.com/mgpyae/Thesis-Scanning/assets/16523434/0136738d-b4c9-4ee1-80a8-ff26b9e9465d)
+
 The UI of the scanning system is as follow.
 ![Scan Instruction Dia](https://github.com/mgpyae/Thesis-Scanning/assets/16523434/f0a372f9-9001-46bb-8ac5-969b85f1ad45)
 
